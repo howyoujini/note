@@ -1,5 +1,11 @@
 import styled from 'styled-components';
 
 export const Block = styled.div`
-  padding: 64px 20px 0;
+  padding: 20px 10px;
+`;
+
+export const Input = styled.input`
+  padding: 10px 20px;
+  border: none;
+  background-color: pink;
 `;

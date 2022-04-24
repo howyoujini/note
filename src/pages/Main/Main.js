@@ -6,7 +6,7 @@ import CreatedBlock from '../../components/CreatedBlock';
 const Main = () => {
   return (
     <S.Container>
-      안녕
+      <S.Title>노트제목</S.Title>
       <CreatedBlock />
     </S.Container>
   );
